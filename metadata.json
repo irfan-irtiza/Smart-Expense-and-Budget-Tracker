@@ -1,0 +1,6 @@
+{
+  "name": "Smart Expense & Budget Tracker",
+  "description": "Personal expense and budget tracker desktop simulation paired with a complete, downloadable JDK 25 JavaFX OOP Lab Maven project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
